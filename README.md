@@ -12,7 +12,7 @@ The dataset was prepared and labeled using **Roboflow**, making it easy to integ
 
 Open and run the notebook in Google Colab here:  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/16HpwM3ucSiY1nApzheixQas4xPwCxV2y?usp=sharing](https://colab.research.google.com/drive/1XJAeLzLs0tup17Op28OPvomDsHtSYUyq?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XJAeLzLs0tup17Op28OPvomDsHtSYUyq?usp=sharing) 
 
 Happy learning!
 
